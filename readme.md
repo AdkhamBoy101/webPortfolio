@@ -6,3 +6,5 @@ Learning Git commands
 * git init project_name
 * ==> go to project file
 * git log ====> to check whether you committed or not
+
+end commit
